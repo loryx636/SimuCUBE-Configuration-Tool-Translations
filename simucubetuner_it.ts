@@ -64,11 +64,11 @@
     <message>
         <location filename="analogconfigdialog.ui" line="149"/>
         <location filename="analogconfigdialog.ui" line="232"/>
-        <location filename="analogconfigdialog.ui" line="1056"/>
-        <location filename="analogconfigdialog.ui" line="1063"/>
-        <location filename="analogconfigdialog.ui" line="1077"/>
-        <location filename="analogconfigdialog.ui" line="1084"/>
-        <location filename="analogconfigdialog.ui" line="1107"/>
+        <location filename="analogconfigdialog.ui" line="566"/>
+        <location filename="analogconfigdialog.ui" line="573"/>
+        <location filename="analogconfigdialog.ui" line="587"/>
+        <location filename="analogconfigdialog.ui" line="594"/>
+        <location filename="analogconfigdialog.ui" line="617"/>
         <source>Invert</source>
         <translation>Inverti</translation>
     </message>
@@ -93,275 +93,177 @@
         <translation>Timone</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="426"/>
-        <location filename="analogconfigdialog.ui" line="520"/>
-        <location filename="analogconfigdialog.ui" line="600"/>
-        <location filename="analogconfigdialog.ui" line="680"/>
-        <location filename="analogconfigdialog.ui" line="760"/>
-        <location filename="analogconfigdialog.ui" line="840"/>
-        <location filename="analogconfigdialog.ui" line="941"/>
         <source>Not configured</source>
-        <translation>Non configurato</translation>
+        <translation type="vanished">Non configurato</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="431"/>
-        <location filename="analogconfigdialog.ui" line="525"/>
-        <location filename="analogconfigdialog.ui" line="605"/>
-        <location filename="analogconfigdialog.ui" line="685"/>
-        <location filename="analogconfigdialog.ui" line="765"/>
-        <location filename="analogconfigdialog.ui" line="845"/>
-        <location filename="analogconfigdialog.ui" line="946"/>
         <source>X11 upper 1 (brake)</source>
-        <translation>X11 alto 1 (freno)</translation>
+        <translation type="vanished">X11 alto 1 (freno)</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="436"/>
-        <location filename="analogconfigdialog.ui" line="530"/>
-        <location filename="analogconfigdialog.ui" line="610"/>
-        <location filename="analogconfigdialog.ui" line="690"/>
-        <location filename="analogconfigdialog.ui" line="770"/>
-        <location filename="analogconfigdialog.ui" line="850"/>
-        <location filename="analogconfigdialog.ui" line="951"/>
         <source>X11 upper 2 (throttle)</source>
-        <translation>X11 alto 2 (acceleratore)</translation>
+        <translation type="vanished">X11 alto 2 (acceleratore)</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="441"/>
-        <location filename="analogconfigdialog.ui" line="535"/>
-        <location filename="analogconfigdialog.ui" line="615"/>
-        <location filename="analogconfigdialog.ui" line="695"/>
-        <location filename="analogconfigdialog.ui" line="775"/>
-        <location filename="analogconfigdialog.ui" line="855"/>
-        <location filename="analogconfigdialog.ui" line="956"/>
         <source>X11 upper 3</source>
-        <translation>X11 alto 3</translation>
+        <translation type="vanished">X11 alto 3</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="446"/>
-        <location filename="analogconfigdialog.ui" line="540"/>
-        <location filename="analogconfigdialog.ui" line="620"/>
-        <location filename="analogconfigdialog.ui" line="700"/>
-        <location filename="analogconfigdialog.ui" line="780"/>
-        <location filename="analogconfigdialog.ui" line="860"/>
-        <location filename="analogconfigdialog.ui" line="961"/>
         <source>X11 upper 5 (clutch)</source>
-        <translation>X11 alto 5 (frizione)</translation>
+        <translation type="vanished">X11 alto 5 (frizione)</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="451"/>
-        <location filename="analogconfigdialog.ui" line="545"/>
-        <location filename="analogconfigdialog.ui" line="625"/>
-        <location filename="analogconfigdialog.ui" line="705"/>
-        <location filename="analogconfigdialog.ui" line="785"/>
-        <location filename="analogconfigdialog.ui" line="865"/>
-        <location filename="analogconfigdialog.ui" line="966"/>
         <source>X11 upper 6</source>
-        <translation>X11 alto 6</translation>
+        <translation type="vanished">X11 alto 6</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="456"/>
-        <location filename="analogconfigdialog.ui" line="550"/>
-        <location filename="analogconfigdialog.ui" line="630"/>
-        <location filename="analogconfigdialog.ui" line="710"/>
-        <location filename="analogconfigdialog.ui" line="790"/>
-        <location filename="analogconfigdialog.ui" line="870"/>
-        <location filename="analogconfigdialog.ui" line="971"/>
         <source>X11 lower 2</source>
-        <translation>X11 basso 2</translation>
+        <translation type="vanished">X11 basso 2</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="461"/>
-        <location filename="analogconfigdialog.ui" line="555"/>
-        <location filename="analogconfigdialog.ui" line="635"/>
-        <location filename="analogconfigdialog.ui" line="715"/>
-        <location filename="analogconfigdialog.ui" line="795"/>
-        <location filename="analogconfigdialog.ui" line="875"/>
-        <location filename="analogconfigdialog.ui" line="976"/>
         <source>X11 lower 3</source>
-        <translation>X11 basso 3</translation>
+        <translation type="vanished">X11 basso 3</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="466"/>
-        <location filename="analogconfigdialog.ui" line="560"/>
-        <location filename="analogconfigdialog.ui" line="640"/>
-        <location filename="analogconfigdialog.ui" line="720"/>
-        <location filename="analogconfigdialog.ui" line="800"/>
-        <location filename="analogconfigdialog.ui" line="880"/>
-        <location filename="analogconfigdialog.ui" line="981"/>
         <source>X11 lower 5</source>
-        <translation>X11 basso 5</translation>
+        <translation type="vanished">X11 basso 5</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="471"/>
-        <location filename="analogconfigdialog.ui" line="565"/>
-        <location filename="analogconfigdialog.ui" line="645"/>
-        <location filename="analogconfigdialog.ui" line="725"/>
-        <location filename="analogconfigdialog.ui" line="805"/>
-        <location filename="analogconfigdialog.ui" line="885"/>
-        <location filename="analogconfigdialog.ui" line="986"/>
         <source>X11 lower 6</source>
-        <translation>X11 basso 6</translation>
+        <translation type="vanished">X11 basso 6</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="476"/>
-        <location filename="analogconfigdialog.ui" line="570"/>
-        <location filename="analogconfigdialog.ui" line="650"/>
-        <location filename="analogconfigdialog.ui" line="730"/>
-        <location filename="analogconfigdialog.ui" line="810"/>
-        <location filename="analogconfigdialog.ui" line="890"/>
-        <location filename="analogconfigdialog.ui" line="991"/>
         <source>X11 lower 7</source>
-        <translation>X11 basso 7</translation>
+        <translation type="vanished">X11 basso 7</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="481"/>
-        <location filename="analogconfigdialog.ui" line="575"/>
-        <location filename="analogconfigdialog.ui" line="655"/>
-        <location filename="analogconfigdialog.ui" line="735"/>
-        <location filename="analogconfigdialog.ui" line="815"/>
-        <location filename="analogconfigdialog.ui" line="895"/>
-        <location filename="analogconfigdialog.ui" line="996"/>
         <source>External Pot 1</source>
-        <translation>Potenziometro esterno 1</translation>
+        <translation type="vanished">Potenziometro esterno 1</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="486"/>
-        <location filename="analogconfigdialog.ui" line="580"/>
-        <location filename="analogconfigdialog.ui" line="660"/>
-        <location filename="analogconfigdialog.ui" line="740"/>
-        <location filename="analogconfigdialog.ui" line="820"/>
-        <location filename="analogconfigdialog.ui" line="900"/>
-        <location filename="analogconfigdialog.ui" line="1001"/>
         <source>External Pot 2</source>
-        <translation>Potenziometro esterno 2</translation>
+        <translation type="vanished">Potenziometro esterno 2</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="491"/>
-        <location filename="analogconfigdialog.ui" line="585"/>
-        <location filename="analogconfigdialog.ui" line="665"/>
-        <location filename="analogconfigdialog.ui" line="745"/>
-        <location filename="analogconfigdialog.ui" line="825"/>
-        <location filename="analogconfigdialog.ui" line="905"/>
-        <location filename="analogconfigdialog.ui" line="1006"/>
         <source>External Pot 3</source>
-        <translation>Potenziometro esterno 3</translation>
+        <translation type="vanished">Potenziometro esterno 3</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="499"/>
+        <location filename="analogconfigdialog.ui" line="429"/>
         <source>Input select</source>
         <translation>Selezione ingressi</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="506"/>
+        <location filename="analogconfigdialog.ui" line="436"/>
         <source>Position indicator</source>
         <translation>Indicatore di posizione</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1097"/>
+        <location filename="analogconfigdialog.ui" line="607"/>
         <source>Calibrated value</source>
         <translation>Valore calibrato</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1114"/>
-        <location filename="analogconfigdialog.ui" line="1121"/>
-        <location filename="analogconfigdialog.ui" line="1128"/>
-        <location filename="analogconfigdialog.ui" line="1135"/>
-        <location filename="analogconfigdialog.ui" line="1142"/>
-        <location filename="analogconfigdialog.ui" line="1149"/>
-        <location filename="analogconfigdialog.ui" line="1156"/>
+        <location filename="analogconfigdialog.ui" line="624"/>
+        <location filename="analogconfigdialog.ui" line="631"/>
+        <location filename="analogconfigdialog.ui" line="638"/>
+        <location filename="analogconfigdialog.ui" line="645"/>
+        <location filename="analogconfigdialog.ui" line="652"/>
+        <location filename="analogconfigdialog.ui" line="659"/>
+        <location filename="analogconfigdialog.ui" line="666"/>
         <source>Reset</source>
         <translation>Azzera</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1163"/>
+        <location filename="analogconfigdialog.ui" line="673"/>
         <source>Reset to defaults</source>
         <translation>Riporta ad i valori predefiniti</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1174"/>
+        <location filename="analogconfigdialog.ui" line="684"/>
         <source>Settings management</source>
         <translation>Gestione configurazione</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1181"/>
+        <location filename="analogconfigdialog.ui" line="691"/>
         <source>Export to ini file</source>
         <oldsource>Export analogsettings.ini</oldsource>
         <translation>Esporta su file ini</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1188"/>
+        <location filename="analogconfigdialog.ui" line="698"/>
         <source>Import from ini file</source>
         <oldsource>Import analogsettings.ini</oldsource>
         <translation>Importa da file ini</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1195"/>
+        <location filename="analogconfigdialog.ui" line="705"/>
         <source>exportimportsuccessLabel</source>
         <translation>exportimportsuccessLabel</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1215"/>
+        <location filename="analogconfigdialog.ui" line="725"/>
         <source>Note 1: </source>
         <translation>Nota 1: </translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1225"/>
+        <location filename="analogconfigdialog.ui" line="735"/>
         <source>While this dialog is open, games will see raw, uncalibrated values. </source>
         <translation>Durante l&apos;apertura di questo messaggio, i giochi vedranno i valori reali non calibrati. </translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1241"/>
+        <location filename="analogconfigdialog.ui" line="751"/>
         <source>Note 2:</source>
         <translation>Nota 2:</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1251"/>
+        <location filename="analogconfigdialog.ui" line="761"/>
         <source>Unconnected inputs are floating, and might be acting in strange ways. Be sure to double check against the pins that you have connected to.</source>
         <translation>Gli ingressi non connessi hanno valori fluttuanti, e potrebbero dare comportamenti errati. Ricontrolla ed assicurati di aver effettuato le giuste connessioni.</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1267"/>
+        <location filename="analogconfigdialog.ui" line="777"/>
         <source>Note 3:</source>
         <translation>Nota 3:</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1277"/>
+        <location filename="analogconfigdialog.ui" line="787"/>
         <source>Not configured Y axis will idle at 50% position, so that joystick will show at middle position for games.</source>
         <translation>L&apos;asse Y non configurato è impostato al 50% del valore, questo comandosarà mostrato nei giochi a metà posizione.</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.ui" line="1299"/>
+        <location filename="analogconfigdialog.ui" line="809"/>
         <source>Accept settings and close. Cancel reverts to the previous settings.</source>
         <translation>Accetta i settaggi e chiudi. Cancella ripristina ad i settaggi precedenti.</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="473"/>
+        <location filename="analogconfigdialog.cpp" line="530"/>
         <source>Save Analog configuration to INI file</source>
         <translation>Salva configurazioni Analogiche su file INI</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="473"/>
-        <location filename="analogconfigdialog.cpp" line="527"/>
+        <location filename="analogconfigdialog.cpp" line="530"/>
+        <location filename="analogconfigdialog.cpp" line="584"/>
         <source>Ini file (*.ini)</source>
         <translation>File INI (*.ini)</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="521"/>
+        <location filename="analogconfigdialog.cpp" line="578"/>
         <source>Exported to %1</source>
         <translation>Esportato in %1</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="527"/>
+        <location filename="analogconfigdialog.cpp" line="584"/>
         <source>Load analog configuration INI file</source>
         <translation>Carica le configurazioni analogiche da file INI</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="535"/>
+        <location filename="analogconfigdialog.cpp" line="592"/>
         <source>Failed to load %1</source>
         <translation>Impossibile caricare %1</translation>
     </message>
     <message>
-        <location filename="analogconfigdialog.cpp" line="575"/>
+        <location filename="analogconfigdialog.cpp" line="632"/>
         <source>Loaded from %1</source>
         <translation>Caricato da %1</translation>
     </message>
@@ -1131,364 +1033,364 @@
         <translation>Salva le configurazioni su SimuCUBE</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="121"/>
-        <location filename="mw.cpp" line="603"/>
+        <location filename="mw.cpp" line="122"/>
+        <location filename="mw.cpp" line="650"/>
         <source>Disconnected</source>
         <translation>Disconnesso</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="124"/>
-        <location filename="mw.cpp" line="606"/>
-        <location filename="mw.cpp" line="613"/>
-        <location filename="mw.cpp" line="639"/>
+        <location filename="mw.cpp" line="125"/>
+        <location filename="mw.cpp" line="653"/>
+        <location filename="mw.cpp" line="660"/>
+        <location filename="mw.cpp" line="686"/>
         <source>Unknown</source>
         <translation>Sconosciuto</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="125"/>
-        <location filename="mw.cpp" line="918"/>
-        <location filename="mw.cpp" line="1462"/>
+        <location filename="mw.cpp" line="126"/>
+        <location filename="mw.cpp" line="965"/>
+        <location filename="mw.cpp" line="1512"/>
         <source>Enable Ioni USB configuration</source>
         <translation>Abilita la configurazione Ioni USB</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="163"/>
+        <location filename="mw.cpp" line="164"/>
         <source>Powered by Granite Devices SimuCUBE</source>
         <translation>Powered by Granite Devices SimuCUBE</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="190"/>
+        <location filename="mw.cpp" line="191"/>
         <source>%1 Click here for updates %2</source>
         <translation>%1 clicca qui per gli aggiornamenti %2</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="222"/>
+        <location filename="mw.cpp" line="223"/>
         <source>(Effect memory is empty)</source>
         <translation>(La memoria degli effetti è vuota)</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="408"/>
+        <location filename="mw.cpp" line="426"/>
         <source>Correct firmware is installed!</source>
         <translation>Firmware corretto installato!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="645"/>
-        <location filename="mw.cpp" line="648"/>
+        <location filename="mw.cpp" line="692"/>
+        <location filename="mw.cpp" line="695"/>
         <source>Revision %1</source>
         <translation>Revisione %1</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="652"/>
+        <location filename="mw.cpp" line="699"/>
         <source>Unknown hardware version</source>
         <translation>Versione hardware sconosciuta</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="660"/>
+        <location filename="mw.cpp" line="707"/>
         <source>E-Stop is PRESSED.</source>
         <translation>Il pulsante E-Stop è PREMUTO.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="662"/>
-        <location filename="mw.cpp" line="727"/>
+        <location filename="mw.cpp" line="709"/>
+        <location filename="mw.cpp" line="774"/>
         <source>Motor Faults:</source>
         <translation>Guasti motore:</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="664"/>
+        <location filename="mw.cpp" line="711"/>
         <source>Tracking Error!</source>
         <translation>Errore di tracking!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="667"/>
+        <location filename="mw.cpp" line="714"/>
         <source>Over Current!</source>
         <translation>SovraCorrente!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="670"/>
+        <location filename="mw.cpp" line="717"/>
         <source>Communication Fault!</source>
         <translation>Anomalia di comunicazione!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="673"/>
+        <location filename="mw.cpp" line="720"/>
         <source>Encoder Fault!</source>
         <translation>Anomalia Encoder!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="676"/>
+        <location filename="mw.cpp" line="723"/>
         <source>Over Temperature!</source>
         <translation>Sovra Temperatura!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="680"/>
-        <location filename="mw.cpp" line="730"/>
+        <location filename="mw.cpp" line="727"/>
+        <location filename="mw.cpp" line="777"/>
         <source>Overvoltage threshold [FOV] must be &gt; 102% of HV BUS voltage</source>
         <translation>La soglia di sovraTensione [FOV] deve essere &gt; 102% rispetto il voltaggio HV BUS</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="683"/>
-        <location filename="mw.cpp" line="735"/>
+        <location filename="mw.cpp" line="730"/>
+        <location filename="mw.cpp" line="782"/>
         <source>Undervoltage!</source>
         <translation>SottoTensione!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="686"/>
-        <location filename="mw.cpp" line="744"/>
+        <location filename="mw.cpp" line="733"/>
+        <location filename="mw.cpp" line="791"/>
         <source>Overvoltage!</source>
         <translation>SovraTensione!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="689"/>
+        <location filename="mw.cpp" line="736"/>
         <source>Program Fault!</source>
         <translation>Guasto di programmazione!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="692"/>
+        <location filename="mw.cpp" line="739"/>
         <source>Hardware Fault!</source>
         <translation>Guasto Hardware!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="695"/>
+        <location filename="mw.cpp" line="742"/>
         <source>Overvelocity!</source>
         <translation>SovraVelocità!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="698"/>
+        <location filename="mw.cpp" line="745"/>
         <source>Initialization Fault!</source>
         <translation>Anomalia in inizializzazione!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="701"/>
+        <location filename="mw.cpp" line="748"/>
         <source>Motion Fault!</source>
         <translation>Anomolia movimento!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="704"/>
+        <location filename="mw.cpp" line="751"/>
         <source>Motion Range Fault!</source>
         <translation>Anomalia su intervallo di movimento!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="707"/>
+        <location filename="mw.cpp" line="754"/>
         <source>Power Stage Forced Off!</source>
         <translation>Stadio di potenza spento!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="710"/>
+        <location filename="mw.cpp" line="757"/>
         <source>Error with Host Communication!</source>
         <translation>Errore di comunicazione con Host!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="713"/>
-        <location filename="mw.cpp" line="739"/>
-        <location filename="mw.cpp" line="748"/>
+        <location filename="mw.cpp" line="760"/>
+        <location filename="mw.cpp" line="786"/>
+        <location filename="mw.cpp" line="795"/>
         <source>Fault Location ID: </source>
         <translation>ID Locazione in errore: </translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="721"/>
-        <location filename="mw.cpp" line="754"/>
-        <location filename="mw.cpp" line="760"/>
-        <location filename="mw.cpp" line="778"/>
+        <location filename="mw.cpp" line="768"/>
+        <location filename="mw.cpp" line="801"/>
+        <location filename="mw.cpp" line="807"/>
+        <location filename="mw.cpp" line="825"/>
         <source>E-Stop status unknown.</source>
         <translation>Stato dell&apos;E-stop sconosciuto.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="725"/>
+        <location filename="mw.cpp" line="772"/>
         <source>E-Stop is released.</source>
         <translation>Pulsante di E-Stop rilasciato.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="823"/>
+        <location filename="mw.cpp" line="870"/>
         <source>Booting</source>
         <translation>Avvio</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="827"/>
+        <location filename="mw.cpp" line="874"/>
         <source>Trying to initialize drive</source>
         <translation>Tentativo di inizializzazione drive</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="831"/>
+        <location filename="mw.cpp" line="878"/>
         <source>Successfully initialized drive.</source>
         <translation>Drive inizializzato con successo.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="834"/>
+        <location filename="mw.cpp" line="881"/>
         <source>Couldn&apos;t connect to Ioni, reconnecting..</source>
         <translation>Impossibile connettersi alla Ioni, riconnessione..</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="838"/>
+        <location filename="mw.cpp" line="885"/>
         <source>Waiting for faults to clear. Release E-stop?</source>
         <translation>In attesa di pulizia delle anomalia. L&apos;E-stop è rilasciato?</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="842"/>
+        <location filename="mw.cpp" line="889"/>
         <source>Waiting for drive to get ready</source>
         <translation>In attesa del drive in stato pronto</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="856"/>
+        <location filename="mw.cpp" line="903"/>
         <source>Hardware settings not yet configured.</source>
         <translation>Settaggi Hardware non ancora configurati.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="860"/>
+        <location filename="mw.cpp" line="907"/>
         <source>Initializing parameters</source>
         <translation>Inizializzazione parametri</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="874"/>
+        <location filename="mw.cpp" line="921"/>
         <source>Drive firmware update error. Turn system off and on again.</source>
         <translation>Errore in aggiornamento firmware del drive. Spegni ed riaccendi il sistema nuovamente.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="879"/>
+        <location filename="mw.cpp" line="926"/>
         <source>Autoupdating Ioni Firmware. %1 %</source>
         <translation>Aggiornamento automatico del Firmware Ioni. %1 %</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="891"/>
-        <location filename="mw.cpp" line="895"/>
+        <location filename="mw.cpp" line="938"/>
+        <location filename="mw.cpp" line="942"/>
         <source>Settings changed, updating a few things...</source>
         <translation>Alcuni settaggi sono stati modificati o aggiornati...</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="916"/>
+        <location filename="mw.cpp" line="963"/>
         <source>Operational</source>
         <translation>Operativo</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="932"/>
+        <location filename="mw.cpp" line="979"/>
         <source>Turn the wheel to find index point</source>
         <translation>Ruota il volante per trovare il punto di Index</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="936"/>
+        <location filename="mw.cpp" line="983"/>
         <source>Saving settings to SimuCUBE flash memory</source>
         <translation>Salva i settaggi sulla flash memory della SimuCUBE</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="939"/>
+        <location filename="mw.cpp" line="986"/>
         <source>Resetting all settings to default.</source>
         <translation>Reimposta tutti i settaggi allo stato predefinito.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="942"/>
+        <location filename="mw.cpp" line="989"/>
         <source>Flash Memory Fault</source>
         <translation>Guasto alla flash memory</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="948"/>
+        <location filename="mw.cpp" line="995"/>
         <source>Ioni Granity Configuration Mode. Games will not work!</source>
         <translation>Modalità di configurazione Ioni Granity. I giochi non funzioneranno durante questa modalità!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="950"/>
-        <location filename="mw.cpp" line="1448"/>
+        <location filename="mw.cpp" line="997"/>
+        <location filename="mw.cpp" line="1498"/>
         <source>Disable Ioni USB configuration</source>
         <translation>Disabilita la configurazione Ioni USB</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="956"/>
+        <location filename="mw.cpp" line="1003"/>
         <source>Applying DRC settings to drive</source>
         <translation>Applicazione dei settaggi DRC al drive</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="959"/>
+        <location filename="mw.cpp" line="1006"/>
         <source>Error applying DRC settings to drive</source>
         <translation>Errore in applicazione settaggi DRC sul drive</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="963"/>
+        <location filename="mw.cpp" line="1010"/>
         <source>Paused after drive init. Waiting for wizard.</source>
         <translation>Pausa dopo l&apos;inizializzazione del drive. In attesa della procedura guidata di wizard.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="967"/>
+        <location filename="mw.cpp" line="1014"/>
         <source>Unknown operating mode!</source>
         <translation>Modalita operativa sconosciuta!</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="971"/>
+        <location filename="mw.cpp" line="1018"/>
         <source>Debug: SMBus error counter (should not increase): %1</source>
         <translation>Debug: contatore errori SMBus (non dovrebbe incrementare): %1</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1032"/>
+        <location filename="mw.cpp" line="1079"/>
         <source>Manual indexing</source>
         <translation>Centraggio manuale</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1036"/>
+        <location filename="mw.cpp" line="1083"/>
         <source>In reference to initialization</source>
         <translation>In riferimento all&apos;inizializzazione</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1040"/>
+        <location filename="mw.cpp" line="1087"/>
         <source>In reference to index point</source>
         <translation>In riferimento al punto di centraggio</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1044"/>
+        <location filename="mw.cpp" line="1091"/>
         <source>Absolute encoder</source>
         <translation>Encoder Assoluto</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1048"/>
+        <location filename="mw.cpp" line="1095"/>
         <source>unknown??</source>
         <translation>Sconosciuto??</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1121"/>
+        <location filename="mw.cpp" line="1168"/>
         <source>This is the default profile.</source>
         <translation>Questo è il profilo di default.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1140"/>
-        <location filename="mw.cpp" line="1859"/>
-        <location filename="mw.cpp" line="1890"/>
+        <location filename="mw.cpp" line="1187"/>
+        <location filename="mw.cpp" line="1909"/>
+        <location filename="mw.cpp" line="1940"/>
         <source>lock-to-lock</source>
         <translation>Gradi di rotazione</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1294"/>
+        <location filename="mw.cpp" line="1341"/>
         <source>disabled</source>
         <translation>disabilitato</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2143"/>
+        <location filename="mw.cpp" line="2201"/>
         <source>Save profiles to INI file</source>
         <translation>Salva i profili su file INI</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2143"/>
-        <location filename="mw.cpp" line="2195"/>
+        <location filename="mw.cpp" line="2201"/>
+        <location filename="mw.cpp" line="2253"/>
         <source>Ini file (*.ini)</source>
         <translation>File INI (*.ini)</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2182"/>
+        <location filename="mw.cpp" line="2240"/>
         <source>Profiles exported.</source>
         <translation>Profili esportati.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2195"/>
+        <location filename="mw.cpp" line="2253"/>
         <source>Open profiles INI file</source>
         <translation>Apri il file INI dei profili</translation>
     </message>
     <message>
         <location filename="mw.ui" line="2262"/>
-        <location filename="mw.cpp" line="1560"/>
+        <location filename="mw.cpp" line="1610"/>
         <source>Settings applied automatically - save to make them permanent</source>
         <translation>Settaggi applicati autoamticamente . salva per renderli permanenti</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1579"/>
+        <location filename="mw.cpp" line="1629"/>
         <source>Settings up to date in permanent memory</source>
         <translation>Settaggi salvati permanentemente in memoria</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="1789"/>
+        <location filename="mw.cpp" line="1839"/>
         <source>Unsafe to apply or save settings - would cause immediate torque!</source>
         <translation>Non è sicuro applicare o salvare questi settaggi .  potrebbero causare rotazioni immediate!</translation>
     </message>
@@ -1497,17 +1399,17 @@
         <translation type="vanished">Profilo esportato.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2212"/>
+        <location filename="mw.cpp" line="2270"/>
         <source>File is empty.</source>
         <translation>Il file è vuoto.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2218"/>
+        <location filename="mw.cpp" line="2276"/>
         <source>Profiles imported.</source>
         <translation>Profilo importato.</translation>
     </message>
     <message>
-        <location filename="mw.cpp" line="2548"/>
+        <location filename="mw.cpp" line="2606"/>
         <source>Event Log</source>
         <translation>Log eventi</translation>
     </message>
@@ -1515,7 +1417,7 @@
 <context>
     <name>QLabel</name>
     <message>
-        <location filename="mw.cpp" line="2293"/>
+        <location filename="mw.cpp" line="2351"/>
         <source>This is the default profile.</source>
         <translation>Profilo predefinito.</translation>
     </message>
@@ -1838,6 +1740,19 @@
     </message>
 </context>
 <context>
+    <name>invalidAccompanyingFilesDialog</name>
+    <message>
+        <location filename="invalidaccompanyingfilesdialog.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="invalidaccompanyingfilesdialog.ui" line="20"/>
+        <source>SimuCUBE Configuration Tool was unable to load all expected files. The Configuration Tool will close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ioniconfigconfirmationdialog</name>
     <message>
         <location filename="ioniconfigconfirmationdialog.ui" line="23"/>
@@ -1883,98 +1798,121 @@
         <translation>Configurazione sensori di commutazione</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="27"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="28"/>
         <source>Possible absolute encoder (BiSS B, BiSS C or SSI) has been detected. With absolute encoders, it is possible to setup and save automatic commutation sensors.</source>
         <translation>E&apos; stato rilevato un possibile encoder assoluto (BiSS B, BiSS C o SSI). Con gli encoder assoluti è possibile configurare e salvare la commutazione automatica dei sensori.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="29"/>
         <source>With this dialog, you can turn this feature on and off. </source>
-        <translation>Con questa opzione, puoi accendere e spegnere questa funzionalità. </translation>
+        <translation type="vanished">Con questa opzione, puoi accendere e spegnere questa funzionalità. </translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="31"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="30"/>
+        <source>With this dialog, you can turn this feature on and off. If you click %1 Next %2 without doing anything, you will leave the setting for sensors as they are.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="33"/>
         <source>Please disconnect any wheel rim USB cables, as the motor will rotate during the procedure.</source>
         <translation>Disconnetti qualsiasi cavo USB dal volante, il motore effettuerà delle rotazioni durante la procedura.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="33"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="35"/>
         <source>Process status:</source>
         <translation>Stato processo:</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="34"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="36"/>
         <source>This means that the wheel is not required to perform the phase search routine at startup and it will be immediately usable.</source>
         <translation>Questo significa che il volante non avrà bisogno di effettuare la ricerca del punto centrale durante l&apos;avvio, e sarà utilizzabile immediatamente.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="36"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="38"/>
+        <source>Note: Index point signal is usually not available on Absolute Serial encoders.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="41"/>
         <source>Start automatic commutation setup</source>
         <translation>Inizia la configurazione della commutazione automatica</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="37"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="42"/>
         <source>Disable previously set automatic commutation settings</source>
         <translation>Disabilita i precedenti settaggi di commutazione automatica</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="122"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="92"/>
+        <source>Automatic commutation setup has been previously performed. You can click %1 Next %2 to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="154"/>
         <source>SimuCUBE is not in Operational state; cannot perform task.</source>
         <translation>La SimuCUBE non è in stato Operativo; non puoi effettuare questa operazione.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="132"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="164"/>
         <source>Task not started</source>
         <translation>Attività non iniziata</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="143"/>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="147"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="175"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="179"/>
         <source>Started / Busy</source>
         <translation>Iniziata / Occupata</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="152"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="184"/>
         <source>Failure: Unsupported encoder. Drive settings have not been changed.</source>
         <translation>Fallito: Encoder non supportato. I settaggi del drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="162"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="194"/>
         <source>Failure: Drive not initialized in Torque mode. Drive settings have not been changed.</source>
         <translation>Fallito: Drive non inizializzato in modalità Potenza. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="172"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="204"/>
         <source>Failure: Drive not initialized. Drive settings have not been changed.</source>
         <translation>Fallito: Drive non inizializzato. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="183"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="215"/>
         <source>Failure: Drive current limits too low to perform this operation. Drive settings have not been changed.</source>
         <translation>Fallito: I limiti di corrente del Drive sono toppo bassi per effettuare questa operazione. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="193"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="225"/>
         <source>Failure: HAL sensor signals are too noisy. Drive settings have not been changed.</source>
         <translation>Fallito: I segnali dei sensori HALL sono troppo disturbati. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="203"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="235"/>
         <source>Failure: HAL sensors activated in invalid sequence. Drive settings have not been changed.</source>
         <translation>Fallito: I sensori HALL sono attivati con una sequenza non valida. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="213"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="245"/>
         <source>Failure: Timeout. Drive settings have not been changed.</source>
         <translation>Fallito: Fuori tempo massimo. I settaggi del Drive non sono stati modificati.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="223"/>
-        <source>Success. Drive settings have been saved to drive flash memory.</source>
-        <translation>Successo: I settaggi del Drive sono stati memorizzati nella sua memoria flash.</translation>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="255"/>
+        <source>Success. Drive settings have been saved to drive flash memory. Click %1 Next %2 to continue</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_commutationconfig.cpp" line="241"/>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="297"/>
+        <source>Automatic commutation setup has been cleared. You can click %1 Next %2 to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Success. Drive settings have been saved to drive flash memory.</source>
+        <translation type="vanished">Successo: I settaggi del Drive sono stati memorizzati nella sua memoria flash.</translation>
+    </message>
+    <message>
+        <location filename="motorconfigwizard_commutationconfig.cpp" line="274"/>
         <source>Task failed</source>
         <translation>Attività fallita</translation>
     </message>
@@ -2073,17 +2011,17 @@
         <translation>Il motore è in avvio...</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="69"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="74"/>
         <source>Motor initialization complete! Press %1 Next %2 to continue.</source>
         <translation>Avvio del motore completato! Premi %1 Avanti %2 per continuare.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="87"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="92"/>
         <source>Motor is initializing. This should take around a minute at most.</source>
         <translation>Il motore di sta Avviando. Questa operazione potrebbe durare circa un minuto al massimo.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_initresultquestion.cpp" line="93"/>
+        <location filename="motorconfigwizard_initresultquestion.cpp" line="98"/>
         <source>Error: Motor did not initialize in 30 seconds. Probable cause for this: Wrong settings for the motor.</source>
         <translation>Errore: Il motore non è stato avviato entro 30 secondi. Probabile causa dell&apos;anomalia: Settaggi errati per il motore in uso.</translation>
     </message>
@@ -2168,7 +2106,7 @@
         <translation>File selezionato: </translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_motorselect.cpp" line="132"/>
+        <location filename="motorconfigwizard_motorselect.cpp" line="138"/>
         <source>%1 Error: %2 Could not open the specified DRC file.</source>
         <translation>%1 Errore: %2 Impossibile aprire il file DRC.</translation>
     </message>
@@ -2237,12 +2175,12 @@
         <translation>Aggiornamento firmware Ioni:</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="113"/>
+        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="154"/>
         <source>%1 Error: %2 Could not open the specified DRC file.</source>
         <translation>%1 Errore: %2 Impossibile aprire il file DRC selezionato.</translation>
     </message>
     <message>
-        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="158"/>
+        <location filename="motorconfigwizard_setcenter_preinit.cpp" line="199"/>
         <source>Applying Ioni DRC Data</source>
         <translation>Applicazione dei dati DRC sullo Ioni</translation>
     </message>
@@ -2344,23 +2282,41 @@
     <name>resetcenterdialog</name>
     <message>
         <location filename="resetcenterdialog.ui" line="14"/>
-        <location filename="resetcenterdialog.ui" line="46"/>
-        <location filename="resetcenterdialog.cpp" line="14"/>
+        <location filename="resetcenterdialog.cpp" line="15"/>
         <source>Reset wheel center</source>
         <translation>Reimposta centraggio volante</translation>
     </message>
     <message>
-        <location filename="resetcenterdialog.ui" line="23"/>
-        <source>Note: this will not change your automatic center offset preferences. Pressing the above button only effects this session, and automatic settings (via the configure motor, encoder and centering wizard) will be restored at powerup.</source>
-        <translation>Nota: questo non cambia la tua preferenza  di modalità di centraggio. La pressione del tasto sotto influenza solo questa sessione, ed i settaggi automatici (effettuati con la configurazione motore, encoder, e procedura guidata di centraggio) saranno riabilitati all&apos;accensione.</translation>
+        <location filename="resetcenterdialog.ui" line="30"/>
+        <source>Set permanent wheel center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="resetcenterdialog.ui" line="33"/>
+        <location filename="resetcenterdialog.ui" line="37"/>
+        <source>This sets the permanent steering center position.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="resetcenterdialog.ui" line="51"/>
+        <source>Note: All changes to profiles and other settings will also be saved to SimuCUBE.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="resetcenterdialog.ui" line="61"/>
+        <source>This will not change your automatic center offset preferences. Pressing the above button only effects this session, and automatic settings (via the configure motor, encoder and centering wizard) will be restored at powerup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: this will not change your automatic center offset preferences. Pressing the above button only effects this session, and automatic settings (via the configure motor, encoder and centering wizard) will be restored at powerup.</source>
+        <translation type="vanished">Nota: questo non cambia la tua preferenza  di modalità di centraggio. La pressione del tasto sotto influenza solo questa sessione, ed i settaggi automatici (effettuati con la configurazione motore, encoder, e procedura guidata di centraggio) saranno riabilitati all&apos;accensione.</translation>
+    </message>
+    <message>
+        <location filename="resetcenterdialog.ui" line="78"/>
         <source>Just set wheel center here for now</source>
         <translation>Per ora configura solamente il centro del volante</translation>
     </message>
     <message>
-        <location filename="resetcenterdialog.ui" line="59"/>
+        <location filename="resetcenterdialog.ui" line="71"/>
         <source>Cancel</source>
         <translation>Annulla</translation>
     </message>
